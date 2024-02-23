@@ -1,6 +1,9 @@
  ### INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-
+### DATE       : 23.02.2024
+### NAME       : RAGUL M
+### REG NO     : 212221230080
+### DEPARTMENT : B.TECH - AIDS
 
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
@@ -104,12 +107,10 @@ void loop()
 
 
 **
+## GRAPH:
 
-## ## SCHEMATIC VIEW:
-![schematic view](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/a92fcc73-2f4d-4e49-93ef-44597727a37c)
+![graph](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/473b2593-8a83-41c6-a749-02e0c4489c69)
 
-
-**Simulation output:** 
 **
 
 ## ON:
@@ -121,9 +122,10 @@ void loop()
 ![off](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/f33608b0-c4ae-4b18-80fd-645233a6c462)
 
 
-## GRAPH:
+## SCHEMATIC VIEW:
 
-![graph](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/473b2593-8a83-41c6-a749-02e0c4489c69)
+![schematic view](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/a92fcc73-2f4d-4e49-93ef-44597727a37c)
+
 
 
 
