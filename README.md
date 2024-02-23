@@ -49,12 +49,7 @@ CIRCUIT DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-**FIGURE -01
 
-## SCHEMATIC VIEW:
-![schematic view](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/a92fcc73-2f4d-4e49-93ef-44597727a37c)
-
-**
 
 **PROCEDURE:**
 
@@ -109,6 +104,11 @@ void loop()
 
 
 **
+
+## ## SCHEMATIC VIEW:
+![schematic view](https://github.com/ragulmani936/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/94881918/a92fcc73-2f4d-4e49-93ef-44597727a37c)
+
+
 **Simulation output:** 
 **
 
